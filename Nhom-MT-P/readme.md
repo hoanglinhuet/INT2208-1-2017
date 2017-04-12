@@ -10,9 +10,7 @@
 + sstruyen.com
 
 ## Sơ đồ ca sử dụng:
-+ Trang chủ: hiển thị danh sách truyện mới cập nhật, các thể loại truyện
-+ Truyện đọc nhiều nhất
-+ Những truyện người dùng đã đọc
+<img src="http://imgur.com/s4NYElg">
 
 ## Frameworks được sử dụng:
 + Bootstrap

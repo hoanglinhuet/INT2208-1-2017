@@ -1,0 +1,73 @@
+/* CSS Document */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#banner{
+	background-color: #666;
+	height: 100px;
+	width: 100%;
+	margin-bottom: 10px;
+}
+#menu {
+	background-color: #CCC;
+	height: 500px;
+	width: 12%;
+	float: left;
+}
+#content {
+	background-color: #DDD;
+	float: right;
+	height: auto;
+	width: 87%;
+}
+#footer {
+	background-color: #666;
+	height: 100px;
+	width: 100%;
+}
+.xoa{
+	clear:both;
+}
+#box-chucnang{
+	width: auto;
+	height: 50px;
+	background-color: #F0F0F0;
+	padding: 10px;
+	border: 1px solid #F0F0F0;	
+	text-align:center;	
+}
+#box-chucnang:hover{
+	border: 1px solid #999;	
+}
+#menu a{
+	text-decoration: none;
+	color: #000;
+}
+#menu a:hover{
+	color: #F60;	
+}
+.left , right{
+	width: 49%;
+	float: left;
+}
+.right{
+	float: right;
+}
+#table{
+	border-collapse: collapse;
+	
+}
+#table tr {
+	border: 1px solid #990;	
+}
+#table td{
+	padding-left: 10px;	
+}
+
+.login{
+	margin-left: auto;
+	margin-right: auto;
+	width: 407px;
+	margin-top: 200px;
+}
