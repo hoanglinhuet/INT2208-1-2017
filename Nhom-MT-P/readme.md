@@ -10,7 +10,7 @@
 + sstruyen.com
 
 ## Sơ đồ ca sử dụng:
-[Imgur](http://i.imgur.com/s4NYElg.png)
+<img src="http://i.imgur.com/s4NYElg.png">
 
 ## Frameworks được sử dụng:
 + Bootstrap
