@@ -1,0 +1,15 @@
+/* CSS Document */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+img.media-object{
+    height: 70px;
+}
+#phantrang{
+	text-align: center;
+}	
+.pagination{
+	margin: 0px;	
+}
+
