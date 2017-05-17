@@ -24,8 +24,8 @@
 		</div> <!-- main-left -->
 		<div class="col-sm-4 main-right">
 			<?php
-				//include("modules/right/hot-tuan.php");
-				//include("modules/right/da-hoan-thanh.php");
+				include("modules/right/truyen-full.php");
+				include("modules/right/facebook.php");
 			?>
 		</div> <!-- main-right -->
 	</div>
